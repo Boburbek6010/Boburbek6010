@@ -2,7 +2,7 @@
 [![MasterHead](https://miro.medium.com/max/1400/1*vkfI4nFNheC5v0p7wzDtGg.gif)](https://flutter.dev/?gclid=Cj0KCQjwmdGYBhDRARIsABmSEeOWAwznXrMY19RBqnmmT4uONvwE85G5yzblJsFpov-ENMWBHQwyg4waAif9EALw_wcB&gclsrc=aw.ds)
 <h1 align="center">Hi 👋, I'm Booburbek</h1>
 <h3 align="center">A passionate Mobile developer</h3>
-<img align="right" alt="Coding" width="400" src=“https://i.stack.imgur.com/i6NG3.gif”>
+<img align="right" alt="Coding" width="400" height="400" src=“https://i.stack.imgur.com/i6NG3.gif”>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boburbek6010&label=Profile%20views&color=0e75b6&style=flat" alt="boburbek6010" /> </p>
