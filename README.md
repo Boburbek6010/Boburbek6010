@@ -28,7 +28,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/khusanboev7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khusanboev7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/boburbek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="boburbek" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/boburbek-khusanboev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="boburbek" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/tarbiyauz khusanboev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="tarbiyauz khusanboev" height="30" width="40" /></a>
 <a href="https://fb.com/bob khusanboev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bob khusanboev" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kingbob_6010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kingbob_6010" height="30" width="40" /></a>
