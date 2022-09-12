@@ -6,7 +6,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=boburbek6010&label=Profile%20views&color=0e75b6&style=flat" alt="boburbek6010" /> </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=boburbek6010" alt="boburbek6010" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=boburbek6010" alt="boburbek6010" /></a> </p>
 
 <img align="right" alt="Coding" width="400" src="https://i.stack.imgur.com/i6NG3.gif">
 
