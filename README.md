@@ -26,7 +26,7 @@
 - 📄 Know about my experiences [https://www.figma.com/file/wbExZ2XGW5c2QcJyhHQyAL/Untitled?node-id=0%3A1](https://www.figma.com/file/wbExZ2XGW5c2QcJyhHQyAL/Untitled?node-id=0%3A1)
 
 - ⚡ Fun fact **Dynamic Programmer**
-<p align="left"> <a href="https://twitter.com/khusanboev7" target="blank"><img src="https://img.shields.io/twitter/follow/khusanboev7?logo=twitter&style=for-the-badge" alt="khusanboev7" /></a> </p>
+- <p align="left"> <a href="https://twitter.com/khusanboev7" target="blank"><img src="https://img.shields.io/twitter/follow/khusanboev7?logo=twitter&style=for-the-badge" alt="khusanboev7" /></a> </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
