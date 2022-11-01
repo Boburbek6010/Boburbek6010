@@ -17,14 +17,12 @@
 
 - 💬 Ask me about **Flutter , Dart , C++**
 
-- Contact me on UpWork [https://www.upwork.com/freelancers/~01dabf743cdf1c31dd] 
+- Contact me on UpWork https://www.upwork.com/freelancers/~01dabf743cdf1c31dd
 
 - 📫 How to reach me **boburbekkhusanboev@gmail.com**
 
 - 📄 Know about my experiences [https://www.figma.com/file/wbExZ2XGW5c2QcJyhHQyAL/Untitled?node-id=0%3A1](https://www.figma.com/file/wbExZ2XGW5c2QcJyhHQyAL/Untitled?node-id=0%3A1)
 
-- ⚡ Fun fact **Dynamic Programmer**
-- <p align="left"> <a href="https://twitter.com/khusanboev7" target="blank"><img src="https://img.shields.io/twitter/follow/khusanboev7?logo=twitter&style=for-the-badge" alt="khusanboev7" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
