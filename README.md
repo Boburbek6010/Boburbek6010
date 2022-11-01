@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **boburbekkhusanboev@gmail.com**
 
-- 📄 Know about my experiences [**Resume**](https://www.figma.com/file/wbExZ2XGW5c2QcJyhHQyAL/Untitled?node-id=0%3A1)
+- 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/152kerpJsWfMdxDL4SoxqqHi8DPTVCF2q/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
