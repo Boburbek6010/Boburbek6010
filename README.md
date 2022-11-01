@@ -9,19 +9,19 @@
 <img align="right" alt="Coding" width="400" src="https://i.stack.imgur.com/i6NG3.gif">
 
 
-- 🔭 I’m currently working on **[Personal Project]**(https://github.com/Boburbek6010?tab=repositories)
+- 🔭 I’m currently working on **[Personal Project]** (https://github.com/Boburbek6010?tab=repositories)
 
 - 🌱 I’m currently studying at **Amity University**
 
-- 👨‍💻 All of my projects are available at **[Boburbek6010]**(https://github.com/Boburbek6010)
+- 👨‍💻 All of my projects are available at **[Boburbek6010]** (https://github.com/Boburbek6010)
 
 - 💬 Ask me about **Flutter , Dart , C++**
 
-- 📞 Contact me on **[UpWork]**(https://www.upwork.com/freelancers/~01dabf743cdf1c31dd)
+- 📞 Contact me on **[UpWork]** (https://www.upwork.com/freelancers/~01dabf743cdf1c31dd)
 
 - 📫 How to reach me **boburbekkhusanboev@gmail.com**
 
-- 📄 Know about my experiences **[Resume]**(https://www.figma.com/file/wbExZ2XGW5c2QcJyhHQyAL/Untitled?node-id=0%3A1)
+- 📄 Know about my experiences **[Resume]** (https://www.figma.com/file/wbExZ2XGW5c2QcJyhHQyAL/Untitled?node-id=0%3A1)
 
 
 <h3 align="left">Connect with me:</h3>
