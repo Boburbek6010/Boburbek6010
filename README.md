@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Flutter , Dart , C++**
 
-- Contact me on UpWork https://www.upwork.com/freelancers/~01dabf743cdf1c31dd
+- Contact me on UpWork [https://www.upwork.com/freelancers/~01dabf743cdf1c31dd](aaa)
 
 - 📫 How to reach me **boburbekkhusanboev@gmail.com**
 
