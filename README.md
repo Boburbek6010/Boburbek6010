@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" alt="Flutter Logo" height="50" width="50">
+  <img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" alt="Flutter Logo" height="40" width="40">
 Flutter developer
 </p>
 
