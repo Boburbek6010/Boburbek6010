@@ -1,7 +1,12 @@
-```html
-<h3 align="left" style="font-family: 'Kode Mono', monospace;">Flutter developer</h3>
-<h5 align="left" style="font-family: 'Kode Mono', monospace;">I have worked in the industry for over 2 years on various projects. I'm good at building systems that work well, are easy to maintain, and meet business needs. I enjoy working with a team but can also work alone. My focus is on getting things done and writing clean, high-quality code.</h5>
-```
+## Flutter Developer
+
+I have over 2 years of experience in the industry, contributing to various projects. My expertise lies in building robust systems that are easy to maintain and meet business requirements. I thrive in collaborative environments but can also work independently. My focus is on delivering high-quality code and achieving results.
+
+### Key Skills:
+- Building extensible and high-performing systems
+- Collaboration and teamwork
+- Problem-solving and delivering clean code
+
 
 
 <p align="center"> <img src="https://raw.githubusercontent.com/masxxiii/masxxiii/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="boburbek6010" /> </p>
