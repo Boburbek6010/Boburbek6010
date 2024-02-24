@@ -1,10 +1,16 @@
 <style>
-  @import url('https://fonts.googleapis.com/css2?family=Kode+Mono&display=swap');
+    @font-face {
+        font-family: 'Kode Mono';
+        src: url('https://fonts.gstatic.com/s/kodemono/v6/0Jh9UJXi2OeEwmGS4iuKv3CmR8yS.ttf') format('truetype');
+    }
+
+    .kode-mono {
+        font-family: 'Kode Mono', monospace;
+    }
 </style>
 
-<h3 align="left" style="font-family: 'Kode Mono', monospace;">Flutter developer</h3>
-<h5 align="left" style="font-family: 'Kode Mono', monospace;">I have worked in the industry for over 2 years on various projects. I'm good at building systems that work well, are easy to maintain, and meet business needs. I enjoy working with a team but can also work alone. My focus is on getting things done and writing clean, high-quality code.</h5>
-
+<h3 align="left" class="kode-mono">Flutter developer</h3>
+<h5 align="left" class="kode-mono">I have worked in the industry for over 2 years on various projects. I'm good at building systems that work well, are easy to maintain, and meet business needs. I enjoy working with a team but can also work alone. My focus is on getting things done and writing clean, high-quality code.</h5>
 
 
 <p align="center"> <img src="https://raw.githubusercontent.com/masxxiii/masxxiii/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="boburbek6010" /> </p>
