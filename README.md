@@ -1,5 +1,5 @@
 <h3 align="left" style="font-family: 'Kode Mono', monospace;">Flutter developer</h3>
-<h5 align="left" style="font-family: 'Kode Mono', monospace;">With over two years of hands-on commercial experience, I've actively contributed to a range of projects spanning different complexities and scales. My expertise lies in crafting robust, scalable, and efficient systems that align closely with business objectives. While I thrive in collaborative team environments, I'm equally adept at tackling challenges independently. My primary focus is on achieving tangible results and consistently delivering meticulously crafted, top-tier code.</h5>
+<h5 align="left" style="font-family: 'Kode Mono', monospace;">I have worked in the industry for over 2 years on various projects. I'm good at building systems that work well, are easy to maintain, and meet business needs. I enjoy working with a team but can also work alone. My focus is on getting things done and writing clean, high-quality code.</h5>
 
 
 
