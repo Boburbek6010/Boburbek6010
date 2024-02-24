@@ -7,9 +7,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=boburbek6010&label=Profile%20views&color=0e75b6&style=flat" alt="boburbek6010" /> </p>
 
 
-<img align="right" alt="Coding" width="400" src="https://i.stack.imgur.com/i6NG3.gif">
-
-
 - 🔭 I’m currently working on [**Personal Project**](https://github.com/Boburbek6010?tab=repositories)
 
 - 🌱 I’m currently studying at **Amity University**
