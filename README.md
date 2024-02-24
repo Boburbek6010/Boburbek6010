@@ -1,5 +1,6 @@
-<h3 align="left">Flutter developer</h3>
-<h5 align="left">With over two years of hands-on commercial experience, I've actively contributed to a range of projects spanning different complexities and scales. My expertise lies in crafting robust, scalable, and efficient systems that align closely with business objectives. While I thrive in collaborative team environments, I'm equally adept at tackling challenges independently. My primary focus is on achieving tangible results and consistently delivering meticulously crafted, top-tier code.</h5>
+<h3 align="left" style="font-family: Arial, sans-serif;">Flutter developer</h3>
+<h5 align="left" style="font-family: Arial, sans-serif;">With over two years of hands-on commercial experience, I've actively contributed to a range of projects spanning different complexities and scales. My expertise lies in crafting robust, scalable, and efficient systems that align closely with business objectives. While I thrive in collaborative team environments, I'm equally adept at tackling challenges independently. My primary focus is on achieving tangible results and consistently delivering meticulously crafted, top-tier code.</h5>
+
 
 <p align="center"> <img src="https://raw.githubusercontent.com/masxxiii/masxxiii/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="boburbek6010" /> </p>
 
