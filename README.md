@@ -9,7 +9,7 @@ I have over 2 years of experience in the industry, contributing to various proje
 
 ```html
 <span style="font-family: 'Kode Mono', monospace;">high-quality code</span>
-
+```
 
 
 <p align="center"> <img src="https://raw.githubusercontent.com/masxxiii/masxxiii/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="boburbek6010" /> </p>
