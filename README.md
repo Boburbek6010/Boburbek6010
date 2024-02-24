@@ -1,9 +1,4 @@
-<p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" alt="Flutter Logo" height="40" width="40">
-  <h3>Flutter developer</h3>
-</p>
-
-
+<h3>Flutter developer</h3>
 
 I have over 2 years of experience in the industry, contributing to various projects. My expertise lies in building robust systems that are easy to maintain and meet business requirements. I thrive in collaborative environments but can also work independently. My focus is on delivering high-quality code and achieving results.
 
