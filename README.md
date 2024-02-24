@@ -1,7 +1,4 @@
-<div style="display: flex; align-items: center;">
-  <img src="https://docs.flutter.dev/assets/images/docs/development/packages-and-plugins/FlutterFavoriteLogo.png" alt="Flutter Logo" width="50" height="50">
-  <h2 style="margin-left: 10px;">Flutter Developer</h2>
-</div>
+<a href="https://twitter.com/khusanboev7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khusanboev7" height="30" width="40" /></a>
 
 I have over 2 years of experience in the industry, contributing to various projects. My expertise lies in building robust systems that are easy to maintain and meet business requirements. I thrive in collaborative environments but can also work independently. My focus is on delivering high-quality code and achieving results.
 
