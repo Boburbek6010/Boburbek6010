@@ -1,6 +1,6 @@
 <p align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" alt="Flutter Logo" height="40" width="40">
-  <span style="font-size: 26; font-weight: bold;">Flutter developer</span>
+  <h3>Flutter developer</h3>
 </p>
 
 
