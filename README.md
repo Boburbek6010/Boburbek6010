@@ -2,11 +2,6 @@
 
 I have over 2 years of experience in the industry, contributing to various projects. My expertise lies in building robust systems that are easy to maintain and meet business requirements. I thrive in collaborative environments but can also work independently. My focus is on delivering high-quality code and achieving results.
 
-### Key Skills:
-- Building extensible and high-performing systems
-- Collaboration and teamwork
-- Problem-solving and delivering clean code
-
 
 
 <p align="center"> <img src="https://raw.githubusercontent.com/masxxiii/masxxiii/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="boburbek6010" /> </p>
