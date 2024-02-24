@@ -1,8 +1,7 @@
-<p align="center">
+<div style="display: flex; align-items: center;">
   <img src="https://docs.flutter.dev/assets/images/docs/development/packages-and-plugins/FlutterFavoriteLogo.png" alt="Flutter Logo" width="50" height="50">
-</p>
-
-<h2 align="center">Flutter Developer</h2>
+  <h2 style="margin-left: 10px;">Flutter Developer</h2>
+</div>
 
 I have over 2 years of experience in the industry, contributing to various projects. My expertise lies in building robust systems that are easy to maintain and meet business requirements. I thrive in collaborative environments but can also work independently. My focus is on delivering high-quality code and achieving results.
 
