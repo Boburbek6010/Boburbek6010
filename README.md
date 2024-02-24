@@ -1,4 +1,4 @@
-![Flutter Logo]([url_to_flutter_logo](https://docs.flutter.dev/assets/images/docs/development/packages-and-plugins/FlutterFavoriteLogo.png))
+![Flutter Logo](https://docs.flutter.dev/assets/images/docs/development/packages-and-plugins/FlutterFavoriteLogo.png)
 
 ## Flutter Developer
 
