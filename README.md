@@ -1,4 +1,4 @@
-<a href="https://twitter.com/khusanboev7" target="blank"><img align="center" src="https://docs.flutter.dev/assets/images/docs/development/packages-and-plugins/FlutterFavoriteLogo.png" alt="khusanboev7" height="30" width="40" /></a>
+<img align="center" src="https://docs.flutter.dev/assets/images/docs/development/packages-and-plugins/FlutterFavoriteLogo.png" alt="khusanboev7" height="30" width="40" />
 
 I have over 2 years of experience in the industry, contributing to various projects. My expertise lies in building robust systems that are easy to maintain and meet business requirements. I thrive in collaborative environments but can also work independently. My focus is on delivering high-quality code and achieving results.
 
