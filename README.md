@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://docs.flutter.dev/assets/images/docs/development/packages-and-plugins/FlutterFavoriteLogo.png">
+  <img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg">
 Flutter developer
 </p>
 
