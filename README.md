@@ -2,7 +2,7 @@
 
 <!-- Font Family: Kode Mono -->
 
-I have 3 years of experience in the industry, building maintainable and business-focused systems. I excel in both collaborative and independent work, delivering high-quality code and results.
+I am a Flutter developer with 3 years of experience, specializing in scalable apps, Bluetooth ELD integration, WebSocket, GraphQL, and Firebase. Focusing on clean architecture and high-quality solutions.
 
 
 <p align="center"> <img src="https://raw.githubusercontent.com/masxxiii/masxxiii/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="boburbek6010" /> </p>
